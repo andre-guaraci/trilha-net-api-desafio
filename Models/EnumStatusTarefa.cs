@@ -4,5 +4,6 @@ namespace TrilhaApiDesafio.Models
     {
         Pendente,
         Finalizado
+
     }
 }
